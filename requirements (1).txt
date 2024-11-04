@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+tf-keras==2.15.0
+transformers==4.37.0
+openai==1.51.2
+datasets==3.0.1
+
