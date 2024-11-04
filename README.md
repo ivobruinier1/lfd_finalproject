@@ -10,9 +10,10 @@ First, install packages: \
 `pip install -r requirements.txt` \
 To experiment with LSTM run `final_assignment.ipynb` \
 To experiment with pretrained language models  run `final_assignment.ipynb` \
-To experiment with SVM svm.py` \
+To experiment with SVM `svm.py` \
 
 ## Note
 
+- The embeddings used for `final_assignment.ipynb` can be found here: `https://www.kaggle.com/datasets/ouhammourachid/glove-6b-json-format`
 - It is recommended to run all experiments with LSTMs or PLMs with a GPU
 - For the experiments with the LSTMs and PLMs Google Colab has been used therefore a notebook is commited and command line arguments have not been implemented.
